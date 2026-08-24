@@ -77,6 +77,8 @@
 
 ### 安装
 
+> **注意**：安装时只需复制 `SKILL.md` 和 `references/` 目录。`README.md` 仅用于 GitHub 展示，不需要复制到 skills 目录。
+
 将本仓库复制到你的 AI Agent skills 目录：
 
 ```bash
